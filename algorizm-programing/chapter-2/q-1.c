@@ -13,4 +13,6 @@ int main() {
   } else {
     printf("x is less than or equal to y. \n");
   }
+
+  return 0;
 }
